@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "id": "FovExpander",
+  "id": "fov-expander",
   "version": "1.0.0",
   "minecraft_versions": [
     "1.26.45.1"
