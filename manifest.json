@@ -1,0 +1,10 @@
+{
+  "type": "preload-native",
+  "id": "fov-expander",
+  "name": "FovExpander",
+  "author": "STRV",
+  "version": "1.0.0",
+  "entry": "libFovExpander.so",
+  "minecraft_version": "1.21.40",
+  "description": "Expands the FOV range from [30°, 110°] to [20°, 200°]."
+}
