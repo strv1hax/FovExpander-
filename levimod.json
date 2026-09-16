@@ -1,15 +1,15 @@
 {
   "schema_version": 1,
   "id": "fov-expander",
-  "version": "1.0.0",
+  "version": "1.1.0",
   "minecraft_versions": [
-    "1.26.45.1"
+    "1.26.50.4"
   ],
   "published_at": "2026-09-13T00:00:00Z",
   "info": {
     "name": "FovExpander",
     "author": "STRV",
-    "description": "Expands the FOV range from [30°, 110°] to [20°, 200°].",
+    "description": "Expands the FOV range from [30°, 110°] to [30°, 200°].",
     "homepage_url": "https://github.com/strv1hax/FovExpander-",
     "tags": [
       "Utility"
