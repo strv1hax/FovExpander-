@@ -9,6 +9,7 @@
   "info": {
     "name": "FovExpander",
     "author": "STRV",
+    "icon": "assets/icon.png",
     "description": "Expands the FOV range from [30°, 110°] to [30°, 200°].",
     "homepage_url": "https://github.com/strv1hax/FovExpander-",
     "tags": [
