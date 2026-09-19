@@ -3,7 +3,7 @@
   "id": "fov-expander",
   "version": "1.1.0",
   "minecraft_versions": [
-    "1.26.51.1"
+    "1.26.5X.X"
   ],
   "published_at": "2026-09-13T00:00:00Z",
   "info": {
@@ -18,6 +18,6 @@
   },
   "download": {
     "type": "direct",
-    "url": "https://github.com/strv1hax/FovExpander-/releases/download/v1.1.0/FovExpander.levipack"
+    "url": "https://github.com/strv1hax/FovExpander-/releases/download/v1.1.1/FovExpander.levipack"
   }
 }
