@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
   "id": "fov-expander",
-  "version": "1.1.0",
+  "version": "1.2.0",
   "minecraft_versions": [
     "1.26.5X.X"
   ],
@@ -18,6 +18,6 @@
   },
   "download": {
     "type": "direct",
-    "url": "https://github.com/strv1hax/FovExpander-/releases/download/v1.1.1/FovExpander.levipack"
+    "url": "https://github.com/strv1hax/FovExpander-/releases/download/v1.2.0/FovExpander.levipack"
   }
 }
